@@ -1,0 +1,22 @@
+{
+    "nif": {
+        "country_code": "string",
+        "value": "string (9)"
+    },
+    "label": "string (4)",
+    "naming": {
+        "is_company": "boolean",
+        "denomination": "NamePersonValueObject || NameCompanyValueObject"
+    },
+    "adressing": {
+        "tax_residence": "AddressValueObject",
+        "registered_office": "AddressValueObject"
+    },
+    "applications": "ApplicationModel[]",
+    "accounting": "AccountModel[]",
+    "commercial_register": "CommercialRegisterModel",
+    "labels": "string (100) []",
+    "aeat_code": "string (10)",
+    "cnae": "string (10)",
+    "representatives": "PersonModel[]"
+}

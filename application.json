@@ -1,0 +1,6 @@
+{
+    "name": "string (10)",
+    "active": "boolean",
+    "started_at": "date",
+    "stopped_at": "date"
+}

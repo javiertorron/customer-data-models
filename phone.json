@@ -1,0 +1,5 @@
+{
+    "country_code": "string (2)",
+    "number": "string (10)",
+    "type": "string (10)"
+}

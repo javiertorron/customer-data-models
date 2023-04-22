@@ -1,0 +1,17 @@
+{
+    "type": "string (15)",
+    "street_name": "string (150)",
+    "block": "string 5",
+    "number": "int",
+    "bis": "string (5)",
+    "stair": "int",
+    "floor": "int",
+    "door": "string (3)",
+    "postal_code": "string (10)",
+    "municipality": "string (100)",
+    "urban_core": "string (100)",
+    "province": "string (75)",
+    "phones": "PhoneModel[]",
+    "email": "string (150)",
+    "web": "string (150)"
+}

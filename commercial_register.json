@@ -1,0 +1,7 @@
+{
+    "register": "string (X)",
+    "book": "string (X)",
+    "invoice": "string (X)",
+    "inscription": "string (X)",
+    "paper": "string (X)"
+}
